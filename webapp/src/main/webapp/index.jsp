@@ -98,7 +98,7 @@ body {
 
 <div style="padding-left:16px">
   <h2>Responsive Login Form in Navbar</h2>
-  <h3>Har har har mahadev<3>
+  <h3>Jai bhole Nath<h3>
   <br>
   <p>Navigation menu with a login form and a submit button inside of it.</p>
   <p>Resize the browser window to see the responsive effect.</p>
