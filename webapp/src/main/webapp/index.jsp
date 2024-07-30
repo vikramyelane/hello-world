@@ -98,7 +98,7 @@ body {
 
 <div style="padding-left:16px">
   <h2>Bingo!</h2>
-  <h3>Done with CICD</h3>
+  <h3>Done with CICD :) It's working</h3>
   <br>
   <p>Navigation menu with a login form and a submit button inside of it.</p>
   <p>Resize the browser window to see the responsive effect.</p>
