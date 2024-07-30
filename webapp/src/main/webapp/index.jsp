@@ -97,8 +97,8 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Jai Mahakal</h2>
-  <h3>Jai bhole Nath</h3>
+  <h2>Bingo!</h2>
+  <h3>Done with CICD</h3>
   <br>
   <p>Navigation menu with a login form and a submit button inside of it.</p>
   <p>Resize the browser window to see the responsive effect.</p>
