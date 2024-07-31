@@ -97,8 +97,8 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>CICD!</h2>
-  <h3>New code has been updated!</h3>
+  <h2>congratulations!</h2>
+  <h3>Welcome to the word of Devops! We wish your curosity would make you No.1 in Devops Filed</h3>
   <br>
   <p>Navigation menu with a login form and a submit button inside of it.</p>
   <p>Resize the browser window to see the responsive effect.</p>
